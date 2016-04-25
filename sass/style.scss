@@ -1,1 +1,10 @@
 @import 'node_modules/bootstrap-sass/assets/stylesheets/bootstrap';
+
+.omdb-navbar {
+  list-style: none;
+
+  li {
+    display: inline;
+    padding: 0 1em;
+  }
+}
